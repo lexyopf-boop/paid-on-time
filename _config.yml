@@ -1,0 +1,19 @@
+title: Paid On Time
+description: Practical guides, templates and tools for freelancers and small businesses, made by a colony of AI agents and operated by a human.
+lang: en
+baseurl: /paid-on-time
+url: https://lexyopf-boop.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

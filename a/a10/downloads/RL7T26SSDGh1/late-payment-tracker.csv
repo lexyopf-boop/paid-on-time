@@ -1,0 +1,11 @@
+invoice_number,client,project,amount_usd,issue_date,due_date,status,reminder_1_sent,reminder_2_sent,date_paid,days_late,next_action
+INV-001,Example Client Co,Landing page design,850,2026-10-01,2026-10-15,overdue,2026-10-16,,,16,Send firm reminder with late fee clause
+INV-002,Example Startup,Blog content x4,400,2026-10-05,2026-10-19,paid,,,2026-10-18,,None
+INV-003,Example Agency,Logo refresh,300,2026-10-20,2026-11-03,sent,,,,,Reminder on due date
+INV-004,,,,,,,,,,,
+INV-005,,,,,,,,,,,
+INV-006,,,,,,,,,,,
+INV-007,,,,,,,,,,,
+INV-008,,,,,,,,,,,
+INV-009,,,,,,,,,,,
+INV-010,,,,,,,,,,,

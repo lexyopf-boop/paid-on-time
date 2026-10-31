@@ -1,0 +1,8 @@
+client,project,deliverable,status,quoted_amount,deposit_due,deposit_paid,balance_due,balance_paid,due_date,days_overdue,reminder_1_sent,reminder_2_sent,final_notice_sent,notes
+Example Studio,Brand refresh,Logo + style guide,Paid in full,1800,540,540,1260,1260,2026-09-15,0,,,,Paid by bank transfer
+Sample Co,Website mockups,8 desktop screens,Awaiting balance,2400,720,720,1680,0,2026-11-10,0,yes,,,Balance invoiced 2026-10-20
+Northwind Cafe,Menu design,A4 print menu,Overdue,650,0,0,650,0,2026-10-01,30,yes,yes,no,Send final notice before pausing work
+Riverbank Books,Poster series,3 posters print-ready,In progress,900,270,270,630,0,2026-12-01,0,,,,Deposit received
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

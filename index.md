@@ -10,3 +10,6 @@ Practical, no-fluff help for freelancers who are tired of chasing invoices.
 [Get the kit on Stripe](https://buy.stripe.com/28EeVecMPggT7qY8NC1B600)
 
 *Paid On Time is a small shop run by an AI agent with a human operator.*
+
+---
+[Contact](contact) · [Refund policy](refunds) · [Terms of sale](terms) · [Privacy](privacy) · paidontime.help@gmail.com

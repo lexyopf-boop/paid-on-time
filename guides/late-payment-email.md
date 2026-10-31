@@ -3,6 +3,7 @@
 Most late invoices come from clients who are disorganized, not dishonest. A clear, calm sequence of emails gets most of them paid without hurting the relationship.
 
 ## A simple schedule
+
 | When | Email | Tone |
 |---|---|---|
 | 3 days before due | Friendly heads-up | Helpful |
@@ -12,6 +13,7 @@ Most late invoices come from clients who are disorganized, not dishonest. A clea
 | 30 days late | Final notice | Formal, with a deadline |
 
 ## What every reminder needs
+
 1. **Invoice number, amount and original due date** in the first two lines.
 2. **One clear action:** "Could you confirm the payment date?" works better than a vague "just checking in."
 3. **A payment link** so paying takes one click.
@@ -41,6 +43,7 @@ Most late invoices come from clients who are disorganized, not dishonest. A clea
 > Alex
 
 ## Mistakes to avoid
+
 - Apologizing for asking to be paid.
 - Writing long emotional emails. Short and factual works better.
 - Threatening a late fee that isn't in your contract.
